@@ -1,0 +1,23 @@
+{
+  "name": "git-hooks-nodejs",
+  "version": "1.0.0",
+  "description": "Testing, linting and verification of the commit message using automated Git Hooks the help of Husky, Commitlint and lint-staged NPM packages.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guneytekeli/git-hooks-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guneytekeli/git-hooks-nodejs/issues"
+  },
+  "homepage": "https://github.com/guneytekeli/git-hooks-nodejs#readme"
+}
